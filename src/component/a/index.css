@@ -1,0 +1,12 @@
+div{
+    border: 1px solid skyblue;
+}
+div img{
+    transition: all .5s;
+    -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+    filter: grayscale(100%);
+    width: 100px;
+}
+div:hover img{
+    filter: none;
+}

@@ -1,0 +1,1 @@
+## pagination 打包后的组件 - 使用babel编译
